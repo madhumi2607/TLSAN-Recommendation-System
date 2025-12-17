@@ -16,3 +16,5 @@ for next-item recommendation.
 
 ## Results
 TLSAN achieved ~0.98 AUC on Amazon Movies & TV dataset.
+
+Team Members : Madhumita S M & Anirudh Kumar R
